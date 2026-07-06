@@ -1,26 +1,34 @@
-# 🎵 Python Music Player
+# Python Music Player
 
-Player de músicas desenvolvido em Python como projeto acadêmico, utilizando conceitos avançados de programação orientada a objetos, multithreading e boas práticas de desenvolvimento.
+Projeto desenvolvido para a disciplina de Programação em Python.
 
-## Funcionalidades
+## Objetivo
 
-- Reprodução de músicas
-- Play/Pause
-- Controle de playlist
-- Interface gráfica
+Desenvolver um player de músicas utilizando conceitos avançados de programação, incluindo:
+
 - Programação Orientada a Objetos
 - Multithreading
+- Estruturas de Dados
+- Boas práticas de desenvolvimento
 
 ## Tecnologias
 
 - Python
-- Tkinter (ou PyQt, dependendo do que usou)
+- Tkinter
+- Pygame
 - Threading
 
-## Objetivo
+## Funcionalidades
 
-Projeto desenvolvido para a disciplina de Programação em Python, com foco em aplicação prática de conceitos avançados da linguagem.
+- Reprodução de músicas
+- Pausar e continuar
+- Próxima música
+- Música anterior
+- Interface gráfica
 
-## Autor
+## Como executar
 
-Henrique Schneider e Gabriel Tokarski
+Clone o projeto
+
+```bash
+git clone https://github.com/rickmarcer/python-music-player.git
